@@ -1,2 +1,12 @@
 # ecommerce-etl-pipeline-project
-End-to-end ETL pipeline project for e-commerce transaction data 
+This project demonstrates an end-to-end ETL pipeline using PostgreSQL to transform raw e-commerce transaction data into a structured Data Warehouse and Data Mart for business analysis.
+
+## Tools
+- PostgreSQL
+- DBeaver
+
+## Project Structure
+- Source Data
+- Staging
+- Data Warehouse
+- Data Mart
