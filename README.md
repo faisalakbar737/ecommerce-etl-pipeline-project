@@ -38,13 +38,13 @@ The dataset consists of e-commerce transaction records containing information su
 
 The database consists of three schemas:
 
-### Staging (`stg`)
+### 1. Staging (`stg`)
 Stores raw data before transformation.
 
-### Data Warehouse (`dwh`)
+### 2. Data Warehouse (`dwh`)
 Stores cleaned and integrated dimension and fact tables.
 
-### Data Mart (`dm`)
+### 3. Data Mart (`dm`)
 Stores business-ready tables optimized for reporting and analysis.
 
 ## ETL Workflow
